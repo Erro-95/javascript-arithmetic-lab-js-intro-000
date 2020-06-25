@@ -37,7 +37,7 @@ function decrement(n) {
   return --n;
 }
 
-function makeInt(string, 10) {
+function makeInt(string) {
   return parseInt(n)
 }
 
